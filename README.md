@@ -1,3 +1,3 @@
 # Studying-C-
 C++ 로 자료구조 복습 
-![KakaoTalk_20211018_034539057](https://user-images.githubusercontent.com/76579656/154125039-7503a486-2cd5-4f0c-b636-45c038543ab0.jpg)
+![vr9JTLk](https://user-images.githubusercontent.com/76579656/154125167-337e4c85-5645-4b4d-8b7a-2a6497fca5be.jpeg)
